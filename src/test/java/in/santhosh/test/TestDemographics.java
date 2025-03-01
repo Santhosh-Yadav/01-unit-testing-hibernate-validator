@@ -18,6 +18,7 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// This is the JUnit test class for testing the Demographics class
 public class TestDemographics {
 
 
